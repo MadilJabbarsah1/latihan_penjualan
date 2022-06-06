@@ -1,0 +1,2 @@
+# latihan_penjualan
+F1E120018_MadilJabbarsah
