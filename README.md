@@ -1,2 +1,4 @@
 # latihan_penjualan
-F1E120018_MadilJabbarsah
+Nama  : Madil Jabbarsah
+NIM   : F1E120018
+Ruang : 001
